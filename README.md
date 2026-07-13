@@ -1,4 +1,4 @@
-🎮 Mình cho thuê tool cày cấp acc liên minh huyền thoại pc 
+🎮 Tool cày cấp acc liên minh huyền thoại pc 
 - Tool viết bằng ngôn ngữ c++ / nền tảng win 10 /11/8/ ko hỗ trợ kiến trúc 32bit và directx 10
 - Tool sử dụng hoàn toàn thị giác máy tính ( chiếm chuột )
 - CHức năng cơ bản :tự mua đồ ,nhận diện lính , trụ , trụ tướng  -> đánh , combo, nâng cấp kĩ năng + tự nâng cấp "khiên vàng thượng giới " , rút lui khỏi trụ địch, chọn lane cần ra , theo lính đồng minh ra lane ... ( ko tự biến về- ko sử dụng phép bổ trợ - sẽ cập nhật nếu đủ kinh phí ... hi )
