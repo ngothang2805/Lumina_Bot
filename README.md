@@ -36,4 +36,4 @@ ko sử dụng kĩ thuật inject dll - đọc bộ nhớ - hook chuột cấp d
 thu thập bất kì thứ gì từ thiết bị của bạn dù chỉ là 1 thứ nhỏ nhất ... nếu có [ mình sẽ hoàn toàn chịu trách nhiệm trước pháp luật ! ]
 
 🔗 GitHub :  https://github.com/ngothang2805/Lumina_Bot
-🔗 Facebook : https://www.facebook.com/toolcaycaplolpc/ 
+🔗 Facebook : https://www.facebook.com/toolcaycaplolpc/
